@@ -31,7 +31,7 @@
 
 <br/>
 <div align="center">
-  <a href="https://github.com/Maplewhite-net?tab=followers">
-    <img src="https://img.shields.io/github/followers/Maplewhite-net?label=Follow%20Maple%20White&style=social" alt="Follow Maple White" />
+  <a href="https://github.com/Maplewhite-net/vpnsknow.review">
+    <img src="https://img.shields.io/github/stars/Maplewhite-net/vpnsknow.review?label=⭐%20Star%20Our%20Project&style=social" alt="Star Repository" />
   </a>
 </div>
