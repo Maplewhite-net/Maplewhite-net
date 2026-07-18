@@ -31,7 +31,7 @@
 
 <br/>
 <div align="center">
-  <a href="https://github.com/Maplewhite-net">
+  <a href="https://github.com/Maplewhite-net?tab=followers">
     <img src="https://img.shields.io/github/followers/Maplewhite-net?label=Follow%20Maple%20White&style=social" alt="Follow Maple White" />
   </a>
 </div>
