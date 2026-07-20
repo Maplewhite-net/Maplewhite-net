@@ -30,8 +30,44 @@
 * 👉 **[2026 优质机场评测与专线加速指南 (点击查看详情)](https://github.com/Maplewhite-net/vpnsknow.review)**
 
 <br/>
+
+---
+
+### 📰 枫白最新深度评测与指南 (Latest Updates)
+
+<!-- blog post list start -->
+*(GitHub Actions 正在为您全自动抓取最新文章...)*
+<!-- blog post list end -->
+
+---
+
+### 🛠 极客武器库 (Tech Stack)
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
+</div>
+
+---
+
+### 📬 联系我 (Contact Me)
+
+如果您有商业合作意向，或需要深入的私密交流，欢迎随时通过邮件联系我：
+
+[![Email](https://img.shields.io/badge/Email-点击发送邮件-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@vpnsknow.com)
+
+<br/>
 <div align="center">
   <a href="https://github.com/Maplewhite-net?tab=followers">
     <img src="https://img.shields.io/badge/Github-点点关注吧-181717?style=for-the-badge&logo=github&logoColor=white" alt="点点关注" />
   </a>
+  <br/><br/>
+  <img src="https://profile-counter.glitch.me/Maplewhite-net/count.svg" alt="Visitor Count" />
 </div>
+
+<p align="center" style="font-size: 12px; color: gray; margin-top: 20px;">
+  <em>⚠️ 声明：本主页及相关开源仓库仅供网络底层技术研究与学习交流使用，请自觉遵守当地法律法规。</em>
+</p>
