@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/Github-点点关注吧-181717?style=for-the-badge&logo=github&logoColor=white" alt="点点关注" />
   </a>
   <br/><br/>
-  <img src="https://profile-counter.glitch.me/Maplewhite-net/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Maplewhite-net&color=0052CC&style=flat-square&label=VISITORS" alt="Visitor Count" />
 </div>
 
 <p align="center" style="font-size: 12px; color: gray; margin-top: 20px;">
