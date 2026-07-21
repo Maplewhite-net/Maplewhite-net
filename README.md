@@ -35,9 +35,9 @@
 
 ### 📰 枫白最新深度评测与指南 (Latest Updates)
 
-<!-- blog post list start -->
+<!-- BLOG-POST-LIST:START -->
 *(GitHub Actions 正在为您全自动抓取最新文章...)*
-<!-- blog post list end -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
