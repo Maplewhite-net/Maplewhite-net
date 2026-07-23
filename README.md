@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/badge/Github-点点关注吧-181717?style=for-the-badge&logo=github&logoColor=white" alt="点点关注" />
   </a>
   <br/><br/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaplewhite-net&count_bg=%230052CC&title_bg=%23555555&title=VISITORS&edge_flat=true" alt="Visitor Count" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=Maplewhite-net.Maplewhite-net-profile&label=VISITORS&labelColor=%23555555&countColor=%230052cc&style=flat-square" alt="Visitor Count" />
 </div>
 
 <p align="center" style="font-size: 12px; color: gray; margin-top: 20px;">
