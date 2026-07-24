@@ -25,7 +25,7 @@
 <br/>
 [![AnLiu1314 专属推荐](https://img.shields.io/badge/强烈推荐-AnLiu1314_官方仓库-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnLiu1314)
 <br/>
-[![机场快线 专属推荐](https://img.shields.io/badge/强烈推荐-机场快线_官方网站-FF4500?style=for-the-badge&logo=fastly&logoColor=white)](https://www.jichangfast.com)
+[![机场迅 专属推荐](https://img.shields.io/badge/强烈推荐-机场迅_官方网站-FF4500?style=for-the-badge&logo=fastly&logoColor=white)](https://www.jichangfast.com)
 
 ---
 
