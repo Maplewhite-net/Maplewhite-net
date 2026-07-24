@@ -22,6 +22,10 @@
 除了我们独立精挑细选的百大机场评测库，这里特别为您引荐我们的核心生态合作伙伴。他们提供极具竞争力、极简傻瓜式的全地形网络加速服务：
 
 [![一翻云专属推荐](https://img.shields.io/badge/强烈推荐-1fan--Cloud_一翻云官方仓库-8A2BE2?style=for-the-badge&logo=icloud&logoColor=white)](https://github.com/1fan-Cloud/my-yifan-cloud-vpn)
+<br/>
+[![AnLiu1314 专属推荐](https://img.shields.io/badge/强烈推荐-AnLiu1314_官方仓库-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnLiu1314)
+<br/>
+[![机场快线 专属推荐](https://img.shields.io/badge/强烈推荐-机场快线_官方网站-FF4500?style=for-the-badge&logo=fastly&logoColor=white)](https://www.jichangfast.com)
 
 ---
 
