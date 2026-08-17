@@ -40,11 +40,11 @@
 ### 📰 枫白最新硬核实测与网络指南 (Latest Updates)
 
 <!-- BLOG-POST-LIST:START -->
+- [HBO Max 合规订阅全攻略：三种付款路线对比与大陆用户解锁配置指南 &lpar;2026&rpar;](https://vpnsknow.com/articles/how-to-subscribe-hbo-max)
+- [Firefly 机场 2026 首发实测：8 年老团队新开的 IPLC 专线，全绿解锁但美国线路拉胯？](https://vpnsknow.com/articles/firefly-iplc-vless-review)
 - [飞猫云 &lpar;Flycat&rpar; 2026 晚高峰抗压体验：IPLC 物理专线与 0 丢包流媒体解锁指南](https://vpnsknow.com/articles/flycat-iplc-review)
 - [唯兔云 &lpar;Weitu&rpar; 2026 详细性能跑分：千兆 BGP 专线与全节点 FullCone UDP 测试报告](https://vpnsknow.com/articles/weitu-bgp-iepl-review)
 - [一翻云 &lpar;Yifanyun&rpar; 2026 真实体验记录：全站 IEPL 专线与 Vless 协议构建的流媒体终极堡垒](https://vpnsknow.com/articles/yifanyun-iepl-vless-review)
-- [别被无良服务商忽悠了：6 大网络检测工具，教你一键排查节点故障与真实网速](https://vpnsknow.com/articles/network-detection-tools-guide)
-- [2026年黑马级代理客户端 Nextin 深度评测：Clash Meta 核心加持下的新锐利器](https://vpnsknow.com/articles/nextin-client-review)
 <!-- BLOG-POST-LIST:END -->
 
 ---
